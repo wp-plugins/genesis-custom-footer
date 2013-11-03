@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Nuts and Bolts Media, LLC
+Contributors: Nuts and Bolts Media LLC
 Donate Link: http://www.nutsandboltsmedia.com/genesis-custom-footer-plugin/
 Tags: footer, genesis, genesiswp, studiopress
 Requires at least: 3.7
