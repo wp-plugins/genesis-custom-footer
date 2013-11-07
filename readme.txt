@@ -13,9 +13,7 @@ Allows you to change the Genesis footer credits from the Genesis Theme Settings 
 
 This plugin adds a section to the Genesis Theme Settings page where users can enter HTML to output in the site footer in place of the default Genesis footer credits. You can use any of the existing Genesis footer shortcodes, your own HTML, or just simple text.
 
-[Plugin Page](http://www.nutsandboltsmedia.com/genesis-custom-footer-plugin/)
-
-[The Author](http://www.nutsandboltsmedia.com)
+Please note: If your child theme has a function for a custom footer already, it will override the plugin’s settings. 
 
 == Installation ==
 
