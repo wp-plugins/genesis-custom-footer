@@ -3,7 +3,7 @@
 Plugin Name: Genesis Custom Footer
 Plugin URI: http://www.nutsandboltsmedia.com
 Description: Allows you to change the Genesis footer credits from the Genesis Theme Settings page.
-Version: 0.5
+Version: 0.7
 Author: Nuts and Bolts Media, LLC
 Author URI: http://www.nutsandboltsmedia.com/
 
@@ -57,7 +57,7 @@ function nabm_footer_box() {
 	<p><?php _e("Enter your custom credits text, including HTML if desired. <strong>Please note:</strong> This option will not work if your functions.php already has a function for custom footer text.", 'nabm_footer'); ?><br />
 
 	<p>Custom Footer Text:<br />
-	<input type="text" name="<?php echo GENESIS_SETTINGS_FIELD; ?>[nabm_footer_creds]" value="<?php echo esc_attr( genesis_get_option('nabm_footer_creds') ); ?>" size="300" /> </p>
+	<input type="text" name="<?php echo GENESIS_SETTINGS_FIELD; ?>[nabm_footer_creds]" value="<?php echo esc_attr( genesis_get_option('nabm_footer_creds') ); ?>" size="75" /> </p>
     <span class="description"><?php _e('<b>Default Text:</b><br/> Copyright [footer_copyright] [footer_childtheme_link] &amp;middot; [footer_genesis_link] [footer_studiopress_link] &amp;middot; [footer_wordpress_link] &amp;middot; [footer_loginout]', 'nabm_footer'); ?></span></p>
 	<?php
 }
