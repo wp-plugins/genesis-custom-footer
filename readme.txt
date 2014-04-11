@@ -3,7 +3,7 @@ Contributors: nutsandboltsmedia
 Donate Link: http://www.nutsandboltsmedia.com/genesis-custom-footer-plugin/
 Tags: footer, genesis, genesiswp, studiopress
 Requires at least: 3.7
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: 0.7
 License: GPLv2
 
