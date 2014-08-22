@@ -3,7 +3,7 @@
 Plugin Name: Genesis Custom Footer
 Plugin URI: http://www.nutsandboltsmedia.com
 Description: Allows you to change the Genesis footer credits from the Genesis Theme Settings page.
-Version: 0.6
+Version: 0.8
 Author: Nuts and Bolts Media, LLC
 Author URI: http://www.nutsandboltsmedia.com/
 
