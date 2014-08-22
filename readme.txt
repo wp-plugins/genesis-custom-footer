@@ -3,8 +3,8 @@ Contributors: nutsandboltsmedia
 Donate Link: http://www.nutsandboltsmedia.com/genesis-custom-footer-plugin/
 Tags: footer, genesis, genesiswp, studiopress
 Requires at least: 3.7
-Tested up to: 3.9
-Stable tag: 0.7
+Tested up to: 4.0
+Stable tag: 0.8
 License: GPLv2
 
 Allows you to change the Genesis footer credits from the Genesis Theme Settings page.
@@ -33,6 +33,9 @@ Some Genesis child themes have a custom footer function defined in functions.php
 
 == Changelog ==
 
+= 0.8 =
+Added new banner and plugin icon for WP 4.0; changed input field to paragraph.
+
 = 0.7 =
 Fixed display issue in WP 3.8.
 
@@ -43,6 +46,9 @@ Minor bug fixes.
 First release.
 
 == Upgrade Notice ==
+
+= 0.8 =
+Adds new banner and plugin icon for WP 4.0; change input field to paragraph.
 
 = 0.7 =
 Fixes display issue in WP 3.8.
